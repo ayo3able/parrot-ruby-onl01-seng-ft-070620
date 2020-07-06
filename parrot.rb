@@ -3,6 +3,7 @@
  def parrot (name = "Squawk!")
  puts "#{name}" 
  name = "Squawk!"
+ "Pretty bird!"
  end
  
  puts parrot("Pretty bird!")
