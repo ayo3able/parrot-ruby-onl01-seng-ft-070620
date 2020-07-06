@@ -2,7 +2,7 @@
 # returns the phrase
  def parrot (phrase = "Squawk!")
  puts "#{phrase}" 
- name = "Pretty bird!"
+ phrase = "Pretty bird!"
  
  end
 
