@@ -4,4 +4,4 @@
  puts "#{name}" 
  end
  
- parrot("Pretty bird!")
+ puts parrot("Pretty bird!")
