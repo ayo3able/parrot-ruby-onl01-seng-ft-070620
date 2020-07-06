@@ -2,4 +2,5 @@
 # returns the phrase
  parrot (name = "Squawk!")
  puts "Squawk #{name}!" 
- end parrot("Pretty Bird!")
+ end
+ parrot("Pretty Bird!")
