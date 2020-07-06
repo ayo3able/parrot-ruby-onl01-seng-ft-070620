@@ -6,5 +6,6 @@
  "Squawk!"
  "Pretty bird!"
  end
+ parrot
  
  puts parrot("Pretty bird!")
